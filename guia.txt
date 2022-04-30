@@ -1,1 +1,4 @@
 git fetch origin main  
+
+borrar rama Local: git branch -d Nombre
+borrar rama remota : git push --delete origin nombre
